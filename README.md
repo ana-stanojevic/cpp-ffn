@@ -102,7 +102,7 @@ C++ · Eigen
 ## 👩‍💻 Author
 
 **Ana Stanojevic**  
-[Scholar ↗](https://bit.ly/ana-stanojevic) • [CV ↗](https://bit.ly/ana-stanojevic-cv)  
+[Scholar ↗](https://ana-stanojevic.com/scholar) • [CV ↗](https://ana-stanojevic.com/cv)  
 
 ---
 
